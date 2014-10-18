@@ -28,9 +28,9 @@ namespace WindowsFormsApplication1
             String s=String.Empty;
             String Output="";
 
-            if (textBox1.Text == "" || textBox2.Text == "")
+            if (textBox1.Text == "" && textBox2.Text == "")
             {
-                MessageBox.Show("Message", "Please make sure there is text in both textboxes");
+                MessageBox.Show("Please make sure there is text in atleast one textbox","Error");
             }
             else
             {
@@ -56,8 +56,7 @@ namespace WindowsFormsApplication1
 
                 }
                 textBox2.Text = Output;
-            }
-        }
+            }       }
         
     }
 }
