@@ -21,3 +21,4 @@ C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\W
 C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
 C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
 C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

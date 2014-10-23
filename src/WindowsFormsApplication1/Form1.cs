@@ -25,8 +25,8 @@ namespace WindowsFormsApplication1
         private void goButton_Click(object sender, EventArgs e)
         {
             string tag = textBox1.Text;
-            String s=String.Empty;
-            String Output="";
+            string s = "";
+            string Output="";
 
             if (textBox1.Text == "" && textBox2.Text == "")
             {
