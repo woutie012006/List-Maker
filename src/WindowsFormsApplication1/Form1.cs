@@ -24,39 +24,18 @@ namespace WindowsFormsApplication1
 
         private void goButton_Click(object sender, EventArgs e)
         {
-            string tag = textBox1.Text;
-            String s=String.Empty;
-            String Output="";
-
             if (textBox1.Text == "" && textBox2.Text == "")
             {
                 MessageBox.Show("Please make sure there is text in atleast one textbox","Error");
             }
             else
             {
-
-
-                for (int i = 0; i < textBox2.Lines.Length; i++)
+                foreach (string line in textBox2.Lines)
                 {
-                    if (i == 0)
-                    {
-                        s = textBox2.Lines[i];
-                        Output += "<" + tag + ">" + textBox2.Lines[i] + "</" + tag + ">";
-                    }
-                    else if (textBox2.Lines[i] == "")
-                    {
-
-                    }
-                    else
-                    {
-
-                        s = textBox2.Lines[i];
-                        Output += "\n" + "<" + tag + ">" + textBox2.Lines[i] + "</" + tag + ">";
-                    }
-
+                    if(!line.StartsWith("<"))
+                        textBox2.AppendText(String.Format("\r\n<{0}>{1}</{2}>", textBox1.Text, line, textBox1.Text));
                 }
-                textBox2.Text = Output;
-            }       }
-        
+            }       
+        }
     }
 }
