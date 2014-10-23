@@ -22,3 +22,16 @@ C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\W
 C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
 C:\Users\wouter\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
 C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
