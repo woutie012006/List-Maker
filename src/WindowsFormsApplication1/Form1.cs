@@ -17,11 +17,6 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void goButton_Click(object sender, EventArgs e)
         {
             if (textBox1.Text == "" && textBox2.Text == "")
@@ -30,12 +25,53 @@ namespace WindowsFormsApplication1
             }
             else
             {
+                //maybe not the best variable name
+                List<string> strings = new List<string>();
+
                 foreach (string line in textBox2.Lines)
                 {
-                    if(!line.StartsWith("<"))
-                        textBox2.AppendText(String.Format("\r\n<{0}>{1}</{2}>", textBox1.Text, line, textBox1.Text));
+                    strings.Add(line);
                 }
-            }       
+                //might later add option to delete spaces.
+                if (!textBox2.Text.Contains(String.Format("<{0}>", textBox1.Text)))
+                {
+                    textBox2.Text = "";
+
+                    if (checkBox1.Checked == true)
+                    {
+                        textBox2.AppendText("<ul>\n");
+                        textBox1.Text = "li";
+                    }
+                    
+                    foreach (string line in strings)
+                    {
+
+                        if (!line.Contains(String.Format("<{0}>{1}</{2}>\r\n", textBox1.Text, line, textBox1.Text)) &&
+                            line != "")
+                        {
+
+                            if (textBox1.Text == "li")
+                                textBox2.AppendText("\t");
+
+                            textBox2.AppendText(String.Format("<{0}>{1}</{2}>\r\n", textBox1.Text, line, textBox1.Text));
+                        }
+                        else if (line == "")
+                            textBox2.AppendText("\r\n");
+                    }
+
+                    if(checkBox1.Checked)
+                        textBox2.AppendText(@"</ul>");
+                    
+                }
+            }
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+                textBox1.Enabled = false;
+            else
+                textBox1.Enabled = true;
         }
     }
 }

@@ -35,3 +35,17 @@ C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\Win
 C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
 C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Davi\Source\Repos\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\GitHub\List-Maker\src\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
